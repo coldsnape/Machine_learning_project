@@ -11,10 +11,10 @@ https://deepnote.com/project/960ce66a-728d-4a49-9d4e-4ed93cf3dd63 (Links to an e
 The data is a subset of a larger data from the Cleveland database repository, which is approved to be used for ML researchers. This data contains the most relevant attributes that one would find that are related to the health condition of the heart. 
 
 Link to dataset: https://www.kaggle.com/ronitf/heart-disease-uci?select=heart.csv (Links to an external site.) 
-Number of observations: 303
-Number of raw features. 14
-Column names:
-age, sex, cp, trestbps, chol, fbs, restecg, thalach,	exang,	oldpeak,	slope,	ca,	thal,	target
+- Number of observations: 303
+- Number of raw features. 14
+- Column names:
+age, sex, cp, trestbps, chol, fbs, restecg, thalach,	exang,	oldpeak, slope,	ca, thal,	target
 	
 
 ### Goal
