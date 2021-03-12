@@ -2,6 +2,7 @@
 ### This repo contains materials from MSDS-691 course, Machine Learning Lab.
 Here, I get to apply machine learning concepts and best practices to real world data
 
+
 ### Majority of the work is done in DeepNote, link is listed below:
 https://deepnote.com/project/960ce66a-728d-4a49-9d4e-4ed93cf3dd63 (Links to an external site.) 
 
@@ -12,11 +13,10 @@ The data is a subset of a larger data from the Cleveland database repository, wh
 Link to dataset: https://www.kaggle.com/ronitf/heart-disease-uci?select=heart.csv (Links to an external site.) 
 Number of observations: 303
 Number of raw features. 14
-1 sample row of dataframe with column names:
-age	sex	cp	trestbps	chol	fbs	restecg	thalach	exang	oldpeak	slope	ca	thal	target
-63	1	3	145	233	1	1	150	0	2.3	0	0	1	1	
+Column names:
+age, sex, cp, trestbps, chol, fbs, restecg, thalach,	exang,	oldpeak,	slope,	ca,	thal,	target
+	
 
-Why is it important?
 ### Goal
 The goal of this project is to apply Machine Learning concepts to this healthcare data set to see if I can find a predictive model that can effectly detect the presence of heart disease within a significant level of accuracy.
 
