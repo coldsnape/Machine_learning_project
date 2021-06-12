@@ -1,4 +1,4 @@
-# Machine_learning_project
+# Detect Presence of Heart Disease Through ML
 ### This repo contains materials from MSDS-691 course, Machine Learning Lab.
 Here, I get to apply machine learning concepts and best practices to real world data
 
