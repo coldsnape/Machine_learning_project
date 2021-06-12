@@ -2,11 +2,6 @@
 ### This repo contains materials from MSDS-691 course, Machine Learning Lab.
 Here, I get to apply machine learning concepts and best practices to real world data
 
-
-### Majority of the work is done in DeepNote, link is listed below:
-https://deepnote.com/project/960ce66a-728d-4a49-9d4e-4ed93cf3dd63 (Links to an external site.) 
-
-
 ### Data General Description
 The data is a subset of a larger data from the Cleveland database repository, which is approved to be used for ML researchers. This data contains the most relevant attributes that one would find that are related to the health condition of the heart. 
 
